@@ -18,6 +18,3 @@ hs_err_pid*
 *.iml
 **.DS_Store
 **/target/
-.gitignore
-pom.xml
-src/
