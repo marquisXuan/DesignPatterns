@@ -5,8 +5,8 @@
 > 
 > 看书也要动手实践，才能体会更深。实践多了，自然就会用了
 
-## SingletonPattern单例模式
-
+## SingletonPattern 
+[单例模式](./SingletonPattern/README.md)
 > Ensure a class has only one instance, and provide a global point of access to it .
 > 
 > 单例模式是为了确保一个类只有一个实例，而且自行实例化并向整个系统提供这个实例
@@ -27,3 +27,6 @@
 >  5. *<u>不明所以</u>* 当使用JDK1.7的动态语言支持时，如果一个java.lang.invoke.MethodHandle实例最后的解析结果是REF_getStatic、REF_putStatic、REF_invokeStatic的方法句柄，并且这个方法句柄对应的类没有被初始化，则会立即触发类的“初始化”操作。
 > 
 > 写几个例子测试一下就知道了。理解了这块知识，就知道静态内部类为什么是单例的了。
+
+## FactoryPattern 
+[工厂模式]()
