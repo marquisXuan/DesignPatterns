@@ -29,4 +29,8 @@
 > 写几个例子测试一下就知道了。理解了这块知识，就知道静态内部类为什么是单例的了。
 
 ## FactoryPattern 
-[工厂模式]()
+[工厂模式](./FactoryPattern/README.md)
+
+
+## ProxyPattern
+[代理模式](./ProxyPattern/README.md)
