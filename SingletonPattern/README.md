@@ -1,4 +1,4 @@
-#SingletonPattern - 单例模式
+# SingletonPattern - 单例模式
 
 > Ensure a class has only one instance, and provide a global point of access to it .
 > 
